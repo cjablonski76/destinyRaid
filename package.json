@@ -1,0 +1,23 @@
+{
+  "name": "destinyRaid",
+  "version": "0.0.0",
+  "description": "destiny raind easy sign up website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cjablonski76/destinyRaid.git"
+  },
+  "keywords": [
+    "destiny",
+    "raid"
+  ],
+  "author": "Cody Jablonski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjablonski76/destinyRaid/issues"
+  },
+  "homepage": "https://github.com/cjablonski76/destinyRaid"
+}
